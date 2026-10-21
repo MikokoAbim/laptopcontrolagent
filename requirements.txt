@@ -1,0 +1,8 @@
+# Windows only; tested on Python 3.10
+langchain-core==1.6.3
+langchain-openai==1.6.2
+langgraph==1.1.8
+pyautogui==0.9.54
+pyperclip==1.11.0
+pywinauto==0.6.9
+python-dotenv==1.2.2
